@@ -1,0 +1,15 @@
+/Users/russelljowell/Desktop/csharp_cwk/bin/Debug/net5.0/csharp_cwk.deps.json
+/Users/russelljowell/Desktop/csharp_cwk/bin/Debug/net5.0/csharp_cwk.runtimeconfig.json
+/Users/russelljowell/Desktop/csharp_cwk/bin/Debug/net5.0/csharp_cwk.runtimeconfig.dev.json
+/Users/russelljowell/Desktop/csharp_cwk/bin/Debug/net5.0/csharp_cwk.dll
+/Users/russelljowell/Desktop/csharp_cwk/bin/Debug/net5.0/ref/csharp_cwk.dll
+/Users/russelljowell/Desktop/csharp_cwk/bin/Debug/net5.0/csharp_cwk.pdb
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.csprojAssemblyReference.cache
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.AssemblyInfoInputs.cache
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.AssemblyInfo.cs
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.csproj.CoreCompileInputs.cache
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.dll
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/ref/csharp_cwk.dll
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.pdb
+/Users/russelljowell/Desktop/csharp_cwk/obj/Debug/net5.0/csharp_cwk.genruntimeconfig.cache
